@@ -23,7 +23,7 @@ name                     : "ParkYongYeon"
 description              : "An amazing website."
 url                      : "https://YongYNote.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "YongYNote/YongYNote"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "ParkYongYeon"
+  avatar           : "/assets/images/abuy.jpg"
+  bio              : "정보보안, 정보처리, 개발 전공"
+  location         : "Korea, Seoul"
   email            :
   links:
     - label: "Email"
